@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[exposingARTS]]></title>
         <description><![CDATA[exposingARTS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/exposingarts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 16:14:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 16:32:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/exposingarts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About ]]></title>
+            <description><![CDATA[<article><h1>About </h1><p>This is what we do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0df2b08b1f5c5c53b2c512d18aae69b80ffb7989.jpg"></article>]]></description>
+            <link>https://thegrid.ai/exposingarts/about/index.html</link>
+            <guid isPermaLink="false">37a4480e-8b86-43dd-9fe8-5f3f4907837b</guid>
+            <pubDate>Tue, 12 Jan 2016 16:32:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to exposingARTS]]></title>
             <description><![CDATA[<h1>Welcome to exposingARTS</h1>]]></description>
-            <link>undefinedwelcome-to-exposingarts/index.html</link>
+            <link>https://thegrid.ai/exposingarts/welcome-to-exposingarts/index.html</link>
             <guid isPermaLink="false">4c32a499-c599-451d-ba86-4db5b98ed39e</guid>
             <pubDate>Tue, 12 Jan 2016 16:14:26 GMT</pubDate>
         </item>
