@@ -1,7 +1,7 @@
 name: exposingARTS
 favicon: null
-layout_spectrum: 0.6205730428919196
-typography_spectrum: 0.5656720148399472
+layout_spectrum: 0.40572
+typography_spectrum: 0.90655
 cta:
   domain: null
   bucket: null
