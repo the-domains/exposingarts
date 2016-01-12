@@ -4,7 +4,7 @@
         <description><![CDATA[exposingARTS]]></description>
         <link>https://thegrid.ai/exposingarts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 16:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 16:35:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/exposingarts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About ]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Welcome to exposingARTS]]></title>
-            <description><![CDATA[<h1>Welcome to exposingARTS</h1>]]></description>
+            <description><![CDATA[<article><h1>Welcome to exposingARTS</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bff74e1-a696-4068-9db6-289fe7094351.jpg"></article>]]></description>
             <link>https://thegrid.ai/exposingarts/welcome-to-exposingarts/index.html</link>
             <guid isPermaLink="false">4c32a499-c599-451d-ba86-4db5b98ed39e</guid>
-            <pubDate>Tue, 12 Jan 2016 16:14:26 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 16:35:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
