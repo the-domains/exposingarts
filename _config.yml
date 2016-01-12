@@ -2,6 +2,7 @@ name: exposingARTS
 favicon: null
 layout_spectrum: 0.40572
 typography_spectrum: 0.90655
+title: exposingARTS
 cta:
   domain: null
   bucket: null
